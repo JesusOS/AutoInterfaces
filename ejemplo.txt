@@ -1,2 +1,2 @@
 Esto es una prueba
-Modificación del fichero
+Modificación del fichero ejemplo.txt
