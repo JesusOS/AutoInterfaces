@@ -1,2 +1,0 @@
-Esto es una prueba
-Modificación del fichero ejemplo.txt
